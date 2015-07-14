@@ -19,7 +19,9 @@ The code implemented here is tested in a Python 2.7.9 environment, containing pa
 ### Example run ###
 
 First ensure you are in the folder;
+
 	cd .../KeCo/src/
 
 Then you may run the code with the included dataset in the following way:
+
 	python main.py "../datasets/ionosphere_scale.txt"
