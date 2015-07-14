@@ -18,7 +18,7 @@ The code implemented here is tested in a Python 2.7.9 environment, containing pa
 
 ### Example run ###
 
-First ensure you are in the folder;
+First ensure you are in the src folder;
 
 	cd .../KeCo/src/
 
